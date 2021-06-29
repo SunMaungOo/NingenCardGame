@@ -1,0 +1,13 @@
+1)The deck have 5 card randomly
+2)User can draw up to 5 card. (Stack have 5 card)
+3)User can discard card
+4)After drawing 5 card, the deck reset itself (same 5 card but in random order)
+5)User can discard card. 
+
+====
+
+Terms
+
+Stack = The container for card that user have previously draw
+
+Deck = The container for card that user can draw card from

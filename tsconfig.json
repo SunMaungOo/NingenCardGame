@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "CommonJS",
+      "strict": true,
+      "declaration": false,
+      "outDir": "dist",
+      "sourceMap": false,
+      "noImplicitAny": true
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules", "**/*.spec.ts","src/prototype/*"]
+  }
